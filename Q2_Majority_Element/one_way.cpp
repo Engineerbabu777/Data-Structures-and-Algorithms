@@ -3,11 +3,11 @@ using namespace std;
 
 int main()
 {
-	int array[] = {7,7,4,4,4,7,4};
+	int array[] = {7,1,1,7,3,7,2,8,1,9,4,1,1,1,1,1,1};
 	
 	int maxNum = INT_MIN;
 	int count = 0;
-	int size = 7;
+	int size = 19;
 	
 	
 	for(int i=0;i<size;i++){
